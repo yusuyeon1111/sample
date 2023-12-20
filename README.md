@@ -46,7 +46,8 @@
  <div markdown="1>
 	 
  #### 1. 전체 흐름
-![image](https://github.com/yusuyeon1111/sample/assets/142488306/27c619c8-4cb2-412a-964c-57637b5eb1b3)
+![image](https://github.com/yusuyeon1111/sample/assets/142488306/dfe30a99-e74f-46d7-b8e8-6ce02c736f75)
+
 1. 의뢰인이 심부름 의뢰글을 작성합니다
 2. 의뢰글을 수행인이 심부름 페이지에서 검색해서 조회할 수 있습니다.
 3. 수행인이 의뢰글에 수행 신청을 하게되면
