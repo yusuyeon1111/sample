@@ -56,29 +56,12 @@
 
 #### 2. 심부름 페이지
 ![image](https://github.com/yusuyeon1111/sample/assets/142488306/e5cb9e68-77ad-4374-ba8d-b40cda984f70)
-<details>
-<summary><b>코드 펼치기</b></summary>
-1. 심부름 카테고리 필터링 시스템
-	1) 카테고리 : 카테고리 필터링 시스템을 구현해 카테고리에 따라 확인 가능
-	2) 검색창 : 검색 기능을 통해 사용자가 원하는 심부름을 제목과 작성자를 기준으로 검색 가능
-	3) 심부름 요청 글 작성 페이지로 이동
-	4) 심부름 글의 상세 내용을 확인할 수 있는 기능, 다른 사용자가 열람 가능.
-	5) 신청 버튼 클릭시 신청되며 신청인의 수행인 신청 목록 확인 서비스에서 확인 가능
-- 심부름 카테고리 기능을 비동기 형식으로 요청
-	
-   ![image](https://github.com/yusuyeon1111/sample/assets/142488306/073db79d-b909-447e-a5db-73f3cedc56bc)
-	
-- java service
-  
-  ![image](https://github.com/yusuyeon1111/sample/assets/142488306/feb2586e-ece0-42f5-8566-f233527d04aa)
+1) 카테고리 : 카테고리 필터링 시스템을 구현해 카테고리에 따라 확인 가능
+2) 검색창 : 검색 기능을 통해 사용자가 원하는 심부름을 제목과 작성자를 기준으로 검색 가능
+3) 심부름 요청 글 작성 페이지로 이동
+4) 심부름 글의 상세 내용을 확인할 수 있는 기능, 다른 사용자가 열람 가능.
+5) 신청 버튼 클릭시 신청되며 신청인의 수행인 신청 목록 확인 서비스에서 확인 가능
 
-- xml 파일
-  ![image](https://github.com/yusuyeon1111/sample/assets/142488306/12ca354e-29b7-49a5-8b81-a51f3b5b6922)
-  	
-</details>
-3. 
-</div>
-</details>
 ---
 
 ### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
