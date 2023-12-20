@@ -18,7 +18,7 @@
 
 ---
 
-### 1. [핵심 프로젝트]((https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject.git)
+### 1. [핵심 프로젝트](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject.git)
 >HEF  (팀 프로젝트)  
 >개발 기간: 2023.11.22 ~ 2020.12.8  
 >  
