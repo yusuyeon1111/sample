@@ -46,7 +46,7 @@
  <div markdown="1>
 	 
  #### 1. 전체 흐름
-(![image](https://github.com/yusuyeon1111/sample/assets/142488306/27c619c8-4cb2-412a-964c-57637b5eb1b3)
+![image](https://github.com/yusuyeon1111/sample/assets/142488306/27c619c8-4cb2-412a-964c-57637b5eb1b3)
 1. 의뢰인이 심부름 의뢰글을 작성합니다
 2. 의뢰글을 수행인이 심부름 페이지에서 검색해서 조회할 수 있습니다.
 3. 수행인이 의뢰글에 수행 신청을 하게되면
@@ -56,6 +56,8 @@
 
 #### 2. 심부름 페이지
 ![image](https://github.com/yusuyeon1111/sample/assets/142488306/e5cb9e68-77ad-4374-ba8d-b40cda984f70)
+<details>
+<summary><b>코드 펼치기</b></summary>
 1. 심부름 카테고리 필터링 시스템
 - 심부름 카테고리 기능을 비동기 형식으로 요청
    ![image](https://github.com/yusuyeon1111/sample/assets/142488306/073db79d-b909-447e-a5db-73f3cedc56bc)
@@ -64,7 +66,8 @@
 
 - xml 파일
   ![image](https://github.com/yusuyeon1111/sample/assets/142488306/12ca354e-29b7-49a5-8b81-a51f3b5b6922)
-  
+  	
+</details>
 3. 
 </div>
 </details>
