@@ -60,8 +60,11 @@
 <summary><b>코드 펼치기</b></summary>
 1. 심부름 카테고리 필터링 시스템
 - 심부름 카테고리 기능을 비동기 형식으로 요청
+	
    ![image](https://github.com/yusuyeon1111/sample/assets/142488306/073db79d-b909-447e-a5db-73f3cedc56bc)
+	
 - java service
+  
   ![image](https://github.com/yusuyeon1111/sample/assets/142488306/feb2586e-ece0-42f5-8566-f233527d04aa)
 
 - xml 파일
